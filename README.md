@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aslam Mohammed Hamed
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Software Engineering at ALX Africa
+- 💞️ I’m looking to collaborate on future projects with you
+- 📫 You can reach me on my X Account @Aslmhamed3
