@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Software Engineering at ALX Africa
 - 💞️ I’m looking to collaborate on future projects with you
 - 📫 You can reach me on my X Account @Aslmhamed3
+- I'm currently a Computer Science and Information Systems' student at Helwan University
